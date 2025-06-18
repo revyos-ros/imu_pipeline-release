@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/imu_pipeline-release
+release_repo_url: git@github.com:revyos-ros/imu_pipeline-release.git
 tracks:
   humble:
     actions:
